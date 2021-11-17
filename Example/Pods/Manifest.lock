@@ -1,0 +1,16 @@
+PODS:
+  - SPConfig (0.1.0)
+
+DEPENDENCIES:
+  - SPConfig (from `../`)
+
+EXTERNAL SOURCES:
+  SPConfig:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SPConfig: 8983a9274816a0e8290892ff1c8c27193512c2f3
+
+PODFILE CHECKSUM: 22be14470b6d8ddce29c7dadc6a82e1a9afa5a15
+
+COCOAPODS: 1.11.2

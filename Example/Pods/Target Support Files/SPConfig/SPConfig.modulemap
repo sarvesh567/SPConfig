@@ -1,0 +1,6 @@
+framework module SPConfig {
+  umbrella header "SPConfig-umbrella.h"
+
+  export *
+  module * { export * }
+}
